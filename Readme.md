@@ -1,5 +1,7 @@
 #Github
 
 Arquivo da aula de Git
-Alteracao 1
-Alteracao 2
+
+Aprendenndo a usar o Git.
+
+Criando o meu repositório
